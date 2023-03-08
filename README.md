@@ -1,6 +1,5 @@
 # Pothole-Detection
 
-# Pothole-Detection-YoloV5
 
 Source - https://www.roboflow.com
 
